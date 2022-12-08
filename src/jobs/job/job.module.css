@@ -1,0 +1,22 @@
+.jobContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.icon {
+    height: 200px;
+    width: 300px;
+    background-color: #eeeef5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.descriptionBlock {
+    background-color: #f7f7fa;
+    padding: 10px;
+}
+
+h4 {
+    margin: 0
+}

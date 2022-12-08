@@ -1,0 +1,17 @@
+.jobsBlock {
+    min-height: 100vh;
+    background-color: #f1e2ff;
+}
+
+.jobsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.jobs {
+    border: 1px solid;
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

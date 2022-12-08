@@ -1,0 +1,13 @@
+.contactsBlock {
+    height: 100vh;
+    background-color: #ffe2e2;
+}
+
+.container {
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}

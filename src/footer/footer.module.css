@@ -1,0 +1,16 @@
+.footerBlock {
+    height: 50vh;
+     background-color: #ebffe4;
+}
+
+.container {
+    flex-direction: column;
+}
+
+.social {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    min-width: 29%;
+}

@@ -1,0 +1,12 @@
+.distantWorkBlock {
+    height: 33vh;
+    background-color: #fffeec;
+}
+
+.container {
+    flex-direction: column;
+}
+
+.h3 {
+    text-align: center;
+}
